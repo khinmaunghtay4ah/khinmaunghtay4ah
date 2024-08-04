@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 🙋
+
+I am Khin Maung Htay, a graduate Computer Engineer and a self-taught, passionate Data/BI Analyst📊. 
+
+- 🌱 I’m currently learning SQL and BI tool
+- 🔭 I’m currently working on SQL portfolio projects
+- ✏️ Check out my articles on Medium: https://medium.com/@khinmaunghtay4ah
+- 📫 How to reach me: <LINKEDIN>https://www.linkedin.com/in/khin-maung-htay4ah/, 📧khinmaunghtay4ah@gmail.com 
 
 <!--
 **khinmaunghtay4ah/khinmaunghtay4ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning SQL and working on portfolio projects 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
